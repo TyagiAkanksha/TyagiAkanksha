@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I find great joy in experimenting with new recipes during my leisure time!
 
 ### Discover my Latest Articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tyagi.akansha85/0">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*fs52id1P9cLfQdjq.jpg" alt="Latest Article">
+<a href="https://medium.com/@tyagi.akansha85/getting-started-with-jetson-nano-1b17fdff93c">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*2Ab0SSKFPCCK9Zni.png" alt="Getting Started with Jetson Nano" style="width:150px;height:auto;">
 </a>
 
