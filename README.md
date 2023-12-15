@@ -8,5 +8,4 @@
 - ⚡ Fun fact: I find great joy in experimenting with new recipes during my leisure time!
 
 ### Discover my Latest Articles
-[![Latest Article](https://medium.com/@tyagi.akansha85/getting-started-with-jetson-nano-1b17fdff93c)](https://medium.com/@tyagi.akansha85/0)
-
+[![Latest Article](https://medium.com/@tyagi.akansha85/getting-started-with-jetson-nano-1b17fdff93c)]([https://github-readme-medium-recent-article.vercel.app/medium/@tyagi.akansha85/0](https://github-readme-medium-recent-article.vercel.app/medium/@tyagi.akansha85/0))
